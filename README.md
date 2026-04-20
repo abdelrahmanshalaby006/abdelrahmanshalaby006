@@ -12,7 +12,8 @@
 - 🌱 Currently starting my journey in **Web Development**  
 - 💻 I have basic knowledge in:
   - C++
-  - Java  
+  - Java
+  - Python
 - 🚀 Focused on building a strong foundation in programming and web development  
 
 ---
